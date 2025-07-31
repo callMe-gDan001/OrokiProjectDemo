@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: Selecao
-Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+THIS IS A WEBSITE DEMO FOR OROKI FOODS.
+OrokiFoods is a quality and emerging food brand in Nigeria, Africa.
+A rapidly growing brand that is focused on producing healthy and nutritous cereals for children and adults alike.
